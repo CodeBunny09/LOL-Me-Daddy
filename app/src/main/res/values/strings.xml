@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LOL Me Daddy</string>
     <string name="next_button">Another One!!</string>
+    <string name="share_button">Share</string>
 </resources>
